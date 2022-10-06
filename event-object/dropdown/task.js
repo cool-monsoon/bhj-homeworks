@@ -22,7 +22,7 @@ dropdown.addEventListener("click", (event) => {
 
 
 value.addEventListener("click", (event) => {
-	dropdownList.classList.add("dropdown__list_active");
+	list.classList.add("dropdown__list_active");
 });
 
 
